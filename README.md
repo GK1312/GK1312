@@ -85,19 +85,7 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 
-[medium]: https://medium.com/
-[github]: https://github.com/
-[google]: https://www.google.com
-[mdn]: https://developer.mozilla.org/en-US/
-[wiki]: https://en.wikipedia.org/wiki/Main_Page
-[quora]: https://www.quora.com/
-[doc]: https://www.digitalocean.com/community
-[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
-[udemy]: https://www.udemy.com/
-[gog]: https://www.geeksforgeeks.org/
-[fcc]: https://www.freecodecamp.org/
-[sof]: https://stackoverflow.com/
-[repo]: https://github.com/hicodersofficial?tab=repositories
+[repo]: https://github.com/GK1312?tab=repositories
 
 <hr />
 
